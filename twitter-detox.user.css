@@ -3,7 +3,11 @@
 @namespace      github.com/nyxmidnight
 @version        1.0.0
 @description    Make Twitter more bearable
-@author         Nyx Midnight
+@author         Nyx Midnight (http://nyx.zone)
+@license	Unlicense
+@homepageURL	https://github.com/nyxmidnight/twitter-detox
+@supportURL	https://github.com/nyxmidnight/twitter-detox/issues
+@preprocessor	default
 ==/UserStyle== */
 
 @-moz-document domain("twitter.com") {
