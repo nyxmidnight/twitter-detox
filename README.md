@@ -1,10 +1,7 @@
 # Twitter Detox
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/nyxmidnight/twitter-detox.svg) ![GitHub](https://img.shields.io/github/license/nyxmidnight/twitter-detox.svg) ![GitHub Release Date](https://img.shields.io/github/release-date/nyxmidnight/twitter-detox.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Twitter](https://img.shields.io/badge/thanks-twitter-blue.svg)
 
 Makes Twitter more bearable, i.e. removes the Trending, User Suggestions, Contact Import, and Advertise on Twitter modules of the old Twitter style. I did not test this on the new Twitter style.
-
-## Current version
-
-1.0.0
 
 ## Getting Started
 
