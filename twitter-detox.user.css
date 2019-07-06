@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           Twitter Detox
+@namespace      github.com/nyxmidnight
+@version        1.0.0
+@description    Make Twitter more bearable
+@author         Nyx Midnight
+==/UserStyle== */
+
+@-moz-document domain("twitter.com") {
+	div.module.Trends.trends, 
+	div.import-prompt,
+	div.Footer-adsModule,
+	div.wtf-module.has-content {
+		display: none;
+	}
+}
