@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2019-07-18 - New style compatible
+### Added
+- Compatibility with Twitter's new :poop:tastic style.
+
 ## [1.0.0] - 2019-07-06 - First Release!
 ### Added
 - README

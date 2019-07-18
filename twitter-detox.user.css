@@ -1,20 +1,21 @@
 /* ==UserStyle==
 @name           Twitter Detox
 @namespace      github.com/nyxmidnight
-@version        1.0.0
+@version        1.1.0
 @description    Make Twitter more bearable
 @author         Nyx Midnight (http://nyx.zone)
-@license	Unlicense
+@license		Unlicense
 @homepageURL	https://github.com/nyxmidnight/twitter-detox
-@supportURL	https://github.com/nyxmidnight/twitter-detox/issues
+@supportURL		https://github.com/nyxmidnight/twitter-detox/issues
 @preprocessor	default
 ==/UserStyle== */
 
 @-moz-document domain("twitter.com") {
-	div.module.Trends.trends, 
-	div.import-prompt,
-	div.Footer-adsModule,
-	div.wtf-module.has-content {
+	.module.Trends.trends, 
+	.import-prompt,
+	.Footer-adsModule,
+	.wtf-module.has-content,
+	.r-ifefl9.r-1pi2tsx.css-1dbjc4n {
 		display: none;
 	}
 }
