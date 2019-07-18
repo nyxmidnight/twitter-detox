@@ -14,7 +14,8 @@
 	div.module.Trends.trends, 
 	div.import-prompt,
 	div.Footer-adsModule,
-	div.wtf-module.has-content {
+	div.wtf-module.has-content,
+	.r-ifefl9.r-1pi2tsx.css-1dbjc4n {
 		display: none;
 	}
 }
