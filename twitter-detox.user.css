@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Twitter Detox
 @namespace      github.com/nyxmidnight
-@version        1.1.0
+@version        1.2.0
 @description    Make Twitter more bearable
 @author         Nyx Midnight (http://nyx.zone)
 @license		Unlicense
@@ -15,7 +15,8 @@
 	.import-prompt,
 	.Footer-adsModule,
 	.wtf-module.has-content,
-	.r-ifefl9.r-1pi2tsx.css-1dbjc4n {
+	.r-ifefl9.r-1pi2tsx.css-1dbjc4n,
+	.css-1dbjc4n.r-1l5qxre.r-m611by {
 		display: none;
 	}
 }
