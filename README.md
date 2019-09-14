@@ -1,6 +1,6 @@
 # Twitter Detox
 
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/nyxmidnight/twitter-detox.svg) ![GitHub](https://img.shields.io/github/license/nyxmidnight/twitter-detox.svg) ![GitHub Release Date](https://img.shields.io/github/release-date/nyxmidnight/twitter-detox.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Twitter](https://img.shields.io/badge/thanks-twitter-blue.svg)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/nyxmidnight/twitter-detox.svg) ![GitHub Release Date](https://img.shields.io/github/release-date/nyxmidnight/twitter-detox.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Twitter](https://img.shields.io/badge/thanks-twitter-blue.svg)
 
 Makes Twitter more bearable, i.e. removes the entire right sidebar of the new Twitter style, and the Trending, User Suggestions, Contact Import, and Advertise on Twitter modules of the old Twitter style.
 
@@ -38,7 +38,8 @@ I use [SemVer](http://semver.org/) for versioning.
 
 ## License
 
-This project is licensed under the Unlicense - see the [LICENSE.md](LICENSE.md) file for details
+[![CCO](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 
 ## Acknowledgments
 
