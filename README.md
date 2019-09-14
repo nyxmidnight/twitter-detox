@@ -37,7 +37,8 @@ I use [SemVer](http://semver.org/) for versioning.
 
 ## License
 
-This project is licensed under the Unlicense - see the [LICENSE.md](LICENSE.md) file for details
+[![CCO](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+To the extent possible under law, [Nyx Midnight](https://github.com/nyxmidnight) has waived all copyright and related or neighboring rights to this work. This work is published from: Canada.
 
 ## Acknowledgments
 
