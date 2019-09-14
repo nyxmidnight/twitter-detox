@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2019-09-14 - Licence update
+
+-   This project is now in the Public Domain (CC0) insteadof using The Unlicence.
+
 ## [1.2.0] - 2019-07-30 - New style compatible
 
 ### Added
