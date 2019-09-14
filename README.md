@@ -1,4 +1,5 @@
 # Twitter Detox
+
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/nyxmidnight/twitter-detox.svg) ![GitHub](https://img.shields.io/github/license/nyxmidnight/twitter-detox.svg) ![GitHub Release Date](https://img.shields.io/github/release-date/nyxmidnight/twitter-detox.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Twitter](https://img.shields.io/badge/thanks-twitter-blue.svg)
 
 Makes Twitter more bearable, i.e. removes the entire right sidebar of the new Twitter style, and the Trending, User Suggestions, Contact Import, and Advertise on Twitter modules of the old Twitter style.
@@ -19,9 +20,9 @@ To install, with a userstyle manager that supports installing UserCSS stylesheet
 
 ## Built With
 
-* [Stylus](https://github.com/openstyles/stylus) - Userstyle manager
-* [Firefox](https://firefox.xom/)'s Web Development Tools
-* CSS
+-   [Stylus](https://github.com/openstyles/stylus) - Userstyle manager
+-   [Firefox](https://firefox.com/)'s Web Development Tools
+-   CSS3
 
 ## Contributing
 
@@ -41,5 +42,5 @@ This project is licensed under the Unlicense - see the [LICENSE.md](LICENSE.md) 
 
 ## Acknowledgments
 
-* [CSS-Tricks](https://css-tricks.com) for teaching me CSS all those years ago
-* Twitter for being a cesspool of bigotry, dumb hate and manufactured outrage :poop:
+-   [CSS-Tricks](https://css-tricks.com) for teaching me CSS all those years ago
+-   Twitter for being a cesspool of bigotry, dumb hate and manufactured outrage :poop:
