@@ -4,14 +4,14 @@
 @version        1.2.0
 @description    Make Twitter more bearable
 @author         Nyx Midnight (http://nyx.zone)
-@license		Unlicense
+@license		CC0 Public Domain
 @homepageURL	https://github.com/nyxmidnight/twitter-detox
 @supportURL		https://github.com/nyxmidnight/twitter-detox/issues
 @preprocessor	default
 ==/UserStyle== */
 
 @-moz-document domain("twitter.com") {
-	.module.Trends.trends, 
+	.module.Trends.trends,
 	.import-prompt,
 	.Footer-adsModule,
 	.wtf-module.has-content,

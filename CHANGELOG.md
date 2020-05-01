@@ -7,9 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2020-05-01 - Documentation update
+
+### Added
+
+-   License file as GitHub removed the license function from repos.
+-   Legal file containing the plain text version of the legal text from the CC0 license.
+
+### Changed
+
+-   Modified the README since my target audience is less technically-inclined than most repos'. I hope it makes it easier to understand how to use.
+
 ## [1.2.0] - 2019-09-14 - Licence update
 
--   This project is now in the Public Domain (CC0) insteadof using The Unlicence.
+-   This project is now in the Public Domain (CC0) instead of using The Unlicence.
 
 ## [1.2.0] - 2019-07-30 - New style compatible
 
