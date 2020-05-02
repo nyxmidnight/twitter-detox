@@ -1,4 +1,6 @@
-Twitter Detox - A user stylesheet that makes the Twitter website on desktop more bearable.
+# Twitter Detox
+
+## A user stylesheet that makes the Twitter website on desktop more bearable.
 
 Written in 2019 by Nyx Midnight - [GitHub account](https://github.com/nyxmidnight)
 
