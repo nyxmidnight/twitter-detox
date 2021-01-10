@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2021-01-09 - Waterfox Classic fix
+
+### Fixed
+
+-   Friend reported that the stylesheet no longer worked in Waterfox Classic. This release should fix this.
+
 ## [1.2.0] - 2020-05-01 - Documentation update
 
 ### Added
