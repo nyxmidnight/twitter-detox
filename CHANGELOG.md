@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.2] 2021-03-03 - Compatibility fix
+
+### Changed
+
+-   Twitter changed their sidebar's code again, so I tweaked the stylesheet to block the sidebar anew.
+
 ## [1.2.1] - 2021-01-09 - Waterfox Classic fix
 
 ### Fixed
@@ -25,6 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Modified the README since my target audience is less technically-inclined than most repos'. I hope it makes it easier to understand how to use.
 
 ## [1.2.0] - 2019-09-14 - Licence update
+
+### Added
 
 -   This project is now in the Public Domain (CC0) instead of using The Unlicence.
 
