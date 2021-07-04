@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.3] 2021-07-04 - Typos
+
+-   Fixed typos and wording in README file.
+-   Fixed typo in user stylesheet header.
+
 ## [1.2.2] 2021-03-03 - Compatibility fix
 
 ### Changed

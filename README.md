@@ -6,6 +6,8 @@
 
 \* Should you need to use the search form, it's also available in the _Explore_ section, at the very top.
 
+**Note:** this stylesheet does **not** disable the Direct Messages toaster pop-up window in the lower right corner of Twitter.
+
 ## Getting Started
 
 ### TL;DR
@@ -22,8 +24,8 @@ This is a **user stylesheet** that gets applied to a website thanks to a **users
     :package: [Install the userCSS](https://raw.githubusercontent.com/nyxmidnight/twitter-detox/master/twitter-detox.user.css)
 
 2.  The userstyle manager will open the stylesheet. The sidebar on the left will have an **Install Style** button to install the user style. Below is a checkbox to receive updates. Leave it checked to automatically receive the updated stylesheet whenever I make changes because Twitter changed their code and broke the stylesheet.
-3.  Press the **Install Style** button to install the user style in your browser.
-4.  Reload your Twitter timeline and enjoy the peace and quiet!
+3.  Click on the **Install Style** button to install the user style in your browser.
+4.  Reload your Twitter timeline and enjoy the (slightly increased) peace and quiet!
 
 ## Technical details
 
