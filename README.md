@@ -1,6 +1,6 @@
 # Twitter Detox
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/nyxmidnight/twitter-detox?sort=semver) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Maintenance](https://img.shields.io/maintenance/yes/2022) ![GitHub issues](https://img.shields.io/github/issues/nyxmidnight/twitter-detox) ![GitHub repo size](https://img.shields.io/github/repo-size/nyxmidnight/twitter-detox) ![Public domain license](https://img.shields.io/badge/license-CC0-blue) ![Twitter irony](https://img.shields.io/badge/thanks-twitter-blue.svg)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/nyxmidnight/twitter-detox?sort=semver) ![GitHub last commit](https://img.shields.io/github/last-commit/nyxmidnight/twitter-detox.svg) ![Maintenance](https://img.shields.io/maintenance/yes/2023) ![GitHub issues](https://img.shields.io/github/issues/nyxmidnight/twitter-detox) ![GitHub repo size](https://img.shields.io/github/repo-size/nyxmidnight/twitter-detox) ![Public domain license](https://img.shields.io/badge/license-CC0-blue) ![Twitter irony](https://img.shields.io/badge/thanks-twitter-blue.svg)
 
 **Twitter Detox** is a user stylesheet that makes the Twitter website more bearable, i.e. removes the entire right sidebar of the new Twitter style, which contains the Search Form\*, Trending, User Suggestions, Contact Import, and Advertise on Twitter modules.
 
