@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Twitter Detox
 @namespace    github.com/nyxmidnight
-@version      1.2.3
+@version      1.2.4
 @description  Make Twitter more bearable
 @author       Nyx Midnight (https://nyx.zone)
 @license		  CC0 Public Domain
@@ -10,7 +10,12 @@
 @preprocessor	default
 ==/UserStyle== */
 @-moz-document domain("twitter.com") {
-  .Footer-adsModule, .import-prompt, .module .Trends .trends, .r-1l5qxre .r-m611by, .r-aqfbo4 .r-zso239 .r-1hycxz,
+
+  .Footer-adsModule,
+  .import-prompt,
+  .module .Trends .trends,
+  .r-1l5qxre .r-m611by,
+  .r-aqfbo4 .r-zso239 .r-1hycxz,
   /*.r-ifefl9 .r-1pi2tsx,*/
   .wtf-module .has-content {
     display: none;
